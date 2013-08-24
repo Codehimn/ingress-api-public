@@ -2,7 +2,7 @@
   "name": "ingress-api",
   "description": "ingress api wrappers",
   "version": "0.1.1",
-  "author": "nerdlabs <npm+ingress-api@nerdlabs.it>",
+  "author": "nerdlabs <npm@nerdlabs.it>",
   "contributors": [
     {
       "name": "ZauberNerd",
